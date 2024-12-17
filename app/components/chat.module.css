@@ -1,20 +1,4 @@
-        body {
-            font-family: Arial, sans-serif;
-            background-image: url('https://static.tildacdn.com/tild3966-3962-4361-a461-623861626535/20842-blokchejn-tor-.jpg');
-            background-size: cover;
-            background-position: center;
-            background-attachment: fixed;
-            background-color: rgba(255, 255, 255, 0.8);
-            color: lightblue;
-            margin: 0;
-            padding: 0;
-            display: flex;
-            flex-direction: column;
-            justify-content: space-between;
-            height: 100vh;
-        }
-
-        .chat-container {
+   .chat-container {
             width: 90vw;
             height: 80vh;
             background-color: transparent;
